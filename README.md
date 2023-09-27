@@ -3,16 +3,18 @@
 
 </div>
 
+
 <img width="833" alt="image" src="https://github.com/Dhivakar-sundar/Dhivakar-sundar/assets/99136181/3208bd52-3e6c-44fe-af1c-7c388f00999d">
 
 
 
 ### Hi there 👋, my name is Dhivakar sundar
 #### i'm backend Developer
+<div align="center" >
+  <img width="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+</div>
 
 
-
-Skills: LARAVEL / JS / HTML / CSS
 
 - 🔭 I’m currently working on Superior Codelabs 
 - 🌱 I’m currently learning React 
