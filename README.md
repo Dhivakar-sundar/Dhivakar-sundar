@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dhivakar sundar
 #### i'm backend Developer
-![i'm backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: LARAVEL / JS / HTML / CSS
